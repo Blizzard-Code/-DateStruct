@@ -61,7 +61,7 @@ void show_arr(struct Arr *pArr)
 	{
 		printf("数组为空\n");
 	}
-	else//输出数组有效内容 
+	else//输出数组有效内容  
 	{
 		int i;
 		for (i = 0; i < pArr->cnt; i++)
